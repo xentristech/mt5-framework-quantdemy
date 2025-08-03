@@ -3,3 +3,6 @@ pydantic==2.5.2
 pandas==2.0.3
 MetaTrader5==5.0.45
 python-telegram-bot==20.8
+openai
+requests
+pytz
